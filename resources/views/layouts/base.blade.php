@@ -205,7 +205,7 @@
         <script src="assets/js/jquery.mixitup.min.js"></script>
         <script src="assets/js/jquery.easing.1.3.js"></script>
         <script src="assets/js/jquery.slicknav.min.js"></script>
-        <!--This is link only for gmaps-->
+        <!--This is link only for gmaps -->
         <script src="http://maps.google.com/maps/api/js"></script>
         <script src="assets/js/gmaps.min.js"></script>
         <script>
